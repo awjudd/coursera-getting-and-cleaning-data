@@ -16,6 +16,8 @@ This code book describes all of the data fields in the `tidy.txt` file.
 
 ## Measurements
 
+These variables are all of the `mean` values for the corresponding measurement based on the subject and the activity.  These are all of data type `numeric`.
+
  - tBodyAccmeanX
  - tBodyAccmeanY
  - tBodyAccmeanZ
